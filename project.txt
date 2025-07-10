@@ -1,2 +1,2 @@
 1.This is first message before commit
-2.This is featureA
+2.This is featureA and featureB
